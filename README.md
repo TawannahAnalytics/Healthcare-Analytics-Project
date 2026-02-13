@@ -1,6 +1,7 @@
 # Healthcare-Analytics-Project
 <div align = "justify" >This analysis examines a healthcare dataset of 349 patient records to identify disease patterns, symptom prevalence, and outcome predictors. The analysis was conducted using Excel functions (COUNTIF, AVERAGEIF, COUNTIFS) with PivotTable validation to ensure accuracy.
-### Key Questions Addressed
+
+  ## Key Questions Addressed
 1. Most frequent disease and its prevalence
 2. Age patterns across diseases
 3. Most common symptoms
